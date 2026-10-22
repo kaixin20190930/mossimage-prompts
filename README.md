@@ -128,7 +128,7 @@ Chalkboard menu with "TODAY'S SPECIAL" written in elegant chalk lettering, rusti
 
 ## Related
 
-- [mossimage-workflow](https://github.com/YOUR_USERNAME/mossimage-workflow) — ComfyUI workflow JSON
+- [mossimage-workflow](https://github.com/kaixin20190930/mossimage-workflow) — ComfyUI workflow JSON
 - [mossimage.run/comfyui/](https://mossimage.run/comfyui/) — ComfyUI setup guide
 - [MOSS-Image paper (arXiv)](https://arxiv.org/abs/2610.23374)
 - [OpenMOSS on GitHub](https://github.com/OpenMOSS)
