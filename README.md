@@ -1,6 +1,13 @@
 # mossimage-prompts
 # MOSS-Image Prompt Collection
 
+## Gallery and reproducible examples
+
+- [MossImage gallery](https://mossimage.run/gallery/) — published images with prompts and saved settings.
+- [10 MOSS-Image prompt examples and seeds](https://mossimage.run/blog/best-moss-image-prompts-examples-seeds/) — bilingual menus, posters, labels, and JSON layout examples, with model labels and saved seeds.
+
+MossImage is an independent hosted studio, not affiliated with OpenMOSS. Generated lettering and layout should be checked before publishing.
+
 Tested and verified prompts for [MOSS-Image](https://arxiv.org/abs/2610.23374), the open-source 5B diffusion model. Every prompt in this repo has been run through MOSS-Image-SFT and confirmed to work.
 
 👉 **[mossimage.run](https://mossimage.run)** — Try these prompts online, free, no setup.
